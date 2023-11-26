@@ -1,4 +1,0 @@
-cd <DisplayImage_directory>
-cmake .
-make
-./DisplayImage easy.jpeg
