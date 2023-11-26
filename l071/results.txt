@@ -1,8 +1,0 @@
-number of pennies: 67
-number of nickels: 20
-number of dimes: 25
-number of quarters: 3
-number of half-dollars: 6
-number of silver dollars: 0
-number of eisan dollars: 1
-the total: $7.92
